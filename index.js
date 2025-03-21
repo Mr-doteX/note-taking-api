@@ -15,7 +15,7 @@ mongoose
   });
 
 const app = express();
-const port = 7076;
+const port = 800;
 
 // use routes
 app.use(express.json());
